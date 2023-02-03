@@ -15,6 +15,7 @@ int main(int argc, char *argv[])
             QCoreApplication::exit(-1);
     }, Qt::QueuedConnection);
     engine.load(url);
-
+    // suwar file.cppp wtrn cloud
+    
     return app.exec();
 }
